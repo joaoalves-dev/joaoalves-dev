@@ -1,5 +1,8 @@
 ## Olá, meu nome é João Victor Alves
-### Trabalho como desenvolvedor de Sistemas e Web :computer: :briefcase:	
+### Trabalho como desenvolvedor de Sistemas e Web :computer: :briefcase:
+* Tenho 20 anos
+* Idioma: Português & Inglês
+* Graduação: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo :man_student:	
 * Localização: São João da Boa Vista - SP :brazil:
 * Email: joaov.alves018@gmail.com :e-mail:
 * Meu Portifólio/Website: [alvesjv.com](https://www.google.com) :1st_place_medal:	
@@ -7,6 +10,9 @@
 ## Redes sociais:
 <a href="https://www.linkedin.com/in/joao-alves-dev/" target="_blank">
   <img aling="center" alt="Social Linkedin" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></img>
+</a>
+<a href="https://www.instagram.com/joao_alves708/" target="_blank">
+  <img aling="center" alt="Social Instagram" heigth="30" width="40" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" style="max-width:100%;"></img>
 </a>
 
 ## Minhas Habilidades
