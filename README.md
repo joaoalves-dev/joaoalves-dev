@@ -5,7 +5,7 @@
 * Graduação: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo :man_student:	
 * Localização: São João da Boa Vista - SP :brazil:
 * Email: joaov.alves018@gmail.com :e-mail:
-* Meu Portifólio/Website: [alvesjv.com](https://alvesjv.com) :1st_place_medal:	
+* Meu Portifólio/Website: [alvesjv.com](http://alvesjv.com/) :1st_place_medal:	
 
 ## Redes sociais:
 <a href="https://www.linkedin.com/in/joao-alves-dev/" target="_blank">
