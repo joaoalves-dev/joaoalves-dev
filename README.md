@@ -16,7 +16,9 @@
 </a>
 
 ## Minhas Habilidades
+<a>
 <img aling="center" alt="HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></img>
+</a>
 <img aling="center" alt="CSS3" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></img>
 <img aling="center" alt="Javascript" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></img>
 <img aling="center" alt="Jquery" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" style="max-width:100%;"></img>
