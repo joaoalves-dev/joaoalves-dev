@@ -3,7 +3,7 @@
 * Tenho 20 anos
 * Idioma: Português & Inglês
 * Graduação: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo :man_student:	
-* Localização: São João da Boa Vista - SP :brazil:
+* Localização: São João da Boa Vista - SP :brazil: :round_pushpin:	
 * Email: joaov.alves018@gmail.com :e-mail:
 * Meu Portifólio/Website: [alvesjv.com](http://alvesjv.com/) :1st_place_medal:	
 
