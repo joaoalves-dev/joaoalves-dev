@@ -26,6 +26,9 @@
 <img aling="center" alt="Photoshop" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" style="max-width:100%;"></img>
 <img aling="center" alt="Java" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"></img>
 <img aling="center" alt="Spring Java" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" style="max-width:100%;"></img>
+<img aling="center" alt="DotNet Core" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;"></img>
+<img aling="center" alt="C#" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width:100%;"></img>
+<img aling="center" alt="Flutter" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="max-width:100%;"></img>
 
 ## Linguagem Mais Usada (GITHUB)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalves-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
