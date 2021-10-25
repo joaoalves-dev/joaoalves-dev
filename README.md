@@ -1,6 +1,6 @@
 ## Olá, meu nome é João Victor Alves
 ### Trabalho como desenvolvedor de Sistemas e Web :computer: :briefcase:
-* Tenho 20 anos
+* Tenho 21 anos
 * Idioma: Português & Inglês
 * Graduação: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo :man_student:	
 * Localização: São João da Boa Vista - SP :round_pushpin: :brazil: 	
