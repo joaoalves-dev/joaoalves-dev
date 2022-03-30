@@ -1,5 +1,5 @@
 ## Olá, meu nome é João Victor Alves
-### Trabalho como Analista de T.I :computer: :briefcase:
+### Trabalho como Analista e Desenvolvedor de Sistemas :computer: :briefcase:
 * Tenho 21 anos
 * Idioma: Português & Inglês
 * Graduação: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo :man_student:	
