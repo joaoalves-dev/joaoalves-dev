@@ -4,8 +4,7 @@
 * Idioma: Português & Inglês
 * Graduação: Tecnologo em Sistemas para Internet - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo :man_student:	
 * Localização: São João da Boa Vista - SP :round_pushpin: :brazil: 	
-* Email: joaov.alves018@gmail.com :e-mail:
-* Meu Portifólio/Website: [alvesjv.com](http://alvesjv.com/) :1st_place_medal:	
+* Email: joaov.alves018@gmail.com :e-mail:	
 
 ## Redes sociais:
 <a href="https://www.linkedin.com/in/joao-alves-dev/" target="_blank">
